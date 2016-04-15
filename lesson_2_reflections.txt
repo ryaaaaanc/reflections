@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+git create a repository. it allows me to commit and git will store the history of my repository
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+it allows users to choose which file to commit. it is a temporary file anyway.
